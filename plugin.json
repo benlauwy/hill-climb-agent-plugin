@@ -1,0 +1,7 @@
+{
+  "name": "hill-climb-agent-plugin",
+  "version": "1.0.0",
+  "description": "Rules for agents doing iterative work (tuning, debugging, prompt or eval iteration) that keep them from blindly hill-climbing on the last round's result.",
+  "license": "MIT",
+  "keywords": ["rules", "agents", "iteration", "hill-climbing", "debugging", "evals"]
+}
