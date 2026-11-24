@@ -1,4 +1,4 @@
-# hill-climb-agent
+# hill-climb-agent-plugin
 
 Rules for agents doing iterative work: tuning, debugging, prompt or eval iteration, any loop of change, run, measure.
 
